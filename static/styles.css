@@ -1,11 +1,51 @@
-h1{
+/* *{
+    background-color: rgb(26, 22, 22);
+}
+/* h1{
     color:burlywood;
     text-align: center; 
-    /* text-decoration: solid; */
-}
+    font-size:30px;
+    display:flex;
+    background-color: blanchedalmond;
+    border-radius: 50%;
+    width: 20px;
+    height:20px;
+    margin: 20px auto;
+    text-decoration: solid; */
+    /* .circle-text {
+        background-color: #f4d6a0;
+        border-radius: 50%;
+        width: 200px;  
+        height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 20px auto;  
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #5c3b1e;
+    } */
 
-button{
-    color: brown;
-    box-shadow: 0dvi;
-    align-content: last baseline;
+/*.button-bar{
+    padding:0lvi;
+    background-color: darkcyan;
+    width:100%;
+    border-color: transparent;
+    justify-content: center;
+    padding: 10px;
+    top: 30px;
+    display: flex;
+    position:relative;
 }
+.button-bar button{
+    color: whitesmoke;
+    margin: 0 5px;
+    background-color:transparent; 
+    border-top: none;
+    border-bottom: none;
+    border-color:transparent;
+    border-width: 1px;
+    text-align: space-evenly;
+    justify-content: center;
+    cursor: pointer;
+} */
